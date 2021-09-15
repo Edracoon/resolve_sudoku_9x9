@@ -2,4 +2,4 @@
 
 Backtracking Algorythm in C language
 
-Usage : make && ./sudoku grilles/[level_grille]
+Usage : make && ./Sudoku grilles/[level_grille]

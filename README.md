@@ -1,3 +1,4 @@
 # Sudoku Solver
 
-Backtracking Algorythm
+Backtracking Algorythm in C language
+
